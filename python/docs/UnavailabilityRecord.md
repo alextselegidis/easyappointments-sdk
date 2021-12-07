@@ -1,0 +1,17 @@
+# UnavailabilityRecord
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **int** |  | [optional] 
+**book** | **str** |  | [optional] 
+**start** | **str** |  | [optional] 
+**end** | **str** |  | [optional] 
+**hash** | **str** |  | [optional] 
+**location** | **str** |  | [optional] 
+**notes** | **str** |  | [optional] 
+**provider_id** | **int** |  | [optional] 
+**google_calendar_id** | **int** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
